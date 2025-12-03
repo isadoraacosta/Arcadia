@@ -61,7 +61,7 @@ Siga estes passos para configurar o projeto localmente em sua máquina:
 - Para o funcionamento correto, o backend deve ser iniciado antes do frontend.
 
 
-Este projeto foi desenvolvido pelos alunos: Beatriz Silva Andrade, Isadora Costa Nascimento, Miguel Teixeiras de Souza e Nathália Helen Oliveira Leite, para a disciplina de Programação orientada à Objetos na Universidade Federal de Goiás, e solicitado e orientado pelo professor da disciplina, Sávio Teles.
+Este projeto foi desenvolvido pelos alunos: Beatriz Silva Andrade, Isadora Costa Nascimento, Miguel Teixeira de Souza e Nathália Helen Oliveira Leite, para a disciplina de Programação orientada à Objetos na Universidade Federal de Goiás, e solicitado e orientado pelo professor da disciplina, Sávio Teles.
 
 Abaixo o GitHub dos desenvolvedores: 
 
