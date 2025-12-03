@@ -56,7 +56,7 @@ Siga estes passos para configurar o projeto localmente em sua máquina:
 
    *npm install ou yarn install*
  
-  Inicie o servidor com npm run dev ou yarn dev. O sistema poderá ser acessado em ou http://localhost:3000.
+  Inicie o servidor com npm run dev ou yarn dev. O sistema poderá ser acessado em http://localhost:3000.
 
 - Para o funcionamento correto, o backend deve ser iniciado antes do frontend.
 
